@@ -37,18 +37,22 @@ Construida con **.NET 9**, **Entity Framework Core** y **Swagger**.
 git clone https://github.com/XhendheyTest/sales-assistant-api.git
 cd sales-assistant-api
 
-## 🔹 Restaurar paquetes NuGet:
+2. Restaurar paquetes NuGet:
 ```bash
 dotnet restore
 
-## 🔹 Configurar cadena de conexión en appsettings.json:
+3. Configurar cadena de conexión en appsettings.json:
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost;Database=SalesAssistantDb;Trusted_Connection=True;"
 }
 
-## 🔹 Aplicar migraciones y crear la base de datos:
+4. Aplicar migraciones y crear la base de datos:
 
 dotnet ef database update
 
-## 🔹 Ejecutar el proyecto:
+5. Ejecutar el proyecto:
 dotnet run
+
+---
+
+
