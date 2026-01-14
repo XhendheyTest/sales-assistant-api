@@ -92,4 +92,18 @@ cd sales-assistant-api
  
   ├─ appsettings.json    # Configuración de la aplicación
 
+---
 
+## 🔹 Próximos pasos (Etapa 2)
+
+- Integración de IA para asistente de ventas
+
+- Optimización de endpoints y filtros
+
+- Analítica de ventas y recomendaciones automáticas
+
+---
+
+## 🔹 Autor: Xhendhey Oñate
+
+## Repositorio: https://github.com/XhendheyTest/sales-assistant-api
